@@ -95,11 +95,15 @@
 ## 📁 Files
 
 | File | Description |
-|------|-------------|
+|---|---|
 | `Heart_Disease_ML_Internship.ipynb` | Main notebook with complete pipeline |
 | `processed.cleveland.data` | Raw dataset file |
+| `heart-disease.names` | Dataset documentation from UCI |
+| `notes.md` | Detailed step-by-step project notes |
+| `requirements.txt` | Required Python libraries |
+| `.gitignore` | Git ignore rules |
 
----
+--
 
 ## 🚀 How to Run
 
