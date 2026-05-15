@@ -103,7 +103,7 @@
 | `requirements.txt` | Required Python libraries |
 | `.gitignore` | Git ignore rules |
 
---
+---
 
 ## 🚀 How to Run
 
